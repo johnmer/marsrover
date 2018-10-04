@@ -1,9 +1,6 @@
 # Mars Rover
 Mars Rover Technical Challenge in Scala
 
-
-Mars Rover in Scala. 
-
 =====================================
 
 The next Mars Rover is being developed, and we need you to come up with a simple way of issuing navigation instructions to it from back on Earth!
