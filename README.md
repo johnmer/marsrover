@@ -17,8 +17,7 @@ The next Mars Rover is being developed, and we need you to come up with a simple
 Part 3: Putting it all together
 Output all the instructions and moves carried out by the rover to get from one grid square to another. The output can take any form e.g rows of text, JSON data, or something graphical.
 
-Solution
-
+## Solution
 =====================================
 
 #### Part 1: 
