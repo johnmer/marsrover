@@ -9,8 +9,6 @@ class AutoPilotSpec extends FlatSpec with Matchers {
   val grid = Grid(10, 10)
   val autoPilot = AutoPilot(grid)
 
-  findShortestPathSimple
-
   val findShortestPathSimple = autoPilot.findShortestPathSimple(Coordinate(1,1), Coordinate(9,9));
   it must "return 16 when the positions are (1,1) and (9,9) using the basic shortest path calulation" in {
     findShortestPathSimple should be(16)
